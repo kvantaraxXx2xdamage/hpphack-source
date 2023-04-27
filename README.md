@@ -1,8 +1,11 @@
 # hpphack-source #cs1.6 #source #cheats #cs 1.6 cheats #cs1.6 hack
 Hpp hack v6 old source code (leaked by Blick1337)
-TG - https://t.me/bountyygroup
-DC - https://discord.gg/jcnNhFQvS5
-  Instruction:
+
+    TG - https://t.me/bountyygroup
+
+    DC - https://discord.gg/jcnNhFQvS5
+  
+   Instruction:
 1. Download sources
 2. Unzip hpp-v6-src
 3. Open hpp_cs16.sln (VS STUDIO 2019 OR 2022)
